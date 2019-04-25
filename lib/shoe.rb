@@ -7,7 +7,7 @@ attr_accessor :color, :size, :material, :condition
   end
  
   def cobble
-    puts "Flipping the page...wow, you read fast!"
+    puts "New Condition"
   end
  
 end
